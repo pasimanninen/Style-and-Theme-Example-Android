@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Style and Theme Example</string>
+
+    <string name="hello_world1">TextView without any styles</string>
+    <string name="hello_world2">TextView and styles as attributes</string>
+    <string name="hello_world3">TextView and styles from resources</string>
+
+    <string name="button1">Button without styles</string>
+    <string name="button2">Button with styles :-)</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
